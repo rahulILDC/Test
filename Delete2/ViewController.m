@@ -23,11 +23,16 @@
     
     NSLog(@"I am working on branch 1");
     [self setUI];
+    [self setRahul];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 -(void)setUI{
     NSLog(@"branch 2 or branch 1???");
 }
+-(void)setRahul{
+    
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
