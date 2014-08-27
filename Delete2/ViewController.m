@@ -18,9 +18,16 @@
 {
     [super viewDidLoad];
     NSLog(@"AdasdA");
+    
+    
+    
+    NSLog(@"I am working on branch 1");
+    [self setUI];
 	// Do any additional setup after loading the view, typically from a nib.
 }
-
+-(void)setUI{
+    
+}
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
