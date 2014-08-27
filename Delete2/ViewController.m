@@ -26,7 +26,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 -(void)setUI{
-    
+    NSLog(@"branch 2 or branch 1???");
 }
 - (void)didReceiveMemoryWarning
 {
